@@ -1,17 +1,19 @@
 
-Telegram Bot in Python
+**Telegram Bot in Python**
 This repository contains a simple Telegram bot built using Python. The bot is designed to interact with users in both private chats and groups, offering basic commands and responses to text messages. It's a great starting point for anyone looking to create their own bot and learn more about Python and the Telegram API.
 
 Features
-Responds to commands such as /start, /help, and /custom.
+**Responds to commands such as /start, /help, and /custom.**
 Custom responses to user messages based on keywords like "hello" and "how are you?"
 Works in private chats and group chats, detecting when it's mentioned in a group.
 Setup and Installation
 To get started with this bot, follow these steps:
 
-Prerequisites
+**Prerequisites**
+
 Python 3.7+ should be installed on your machine. You can download it from the official Python website.
 Install VS Code (recommended) and the Python extension for development.
+
 Step 1: Clone the Repository
 bash
 Copy code
